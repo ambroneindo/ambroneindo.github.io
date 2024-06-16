@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ambroneindo.github.io/sitemap
+Sitemap: https://ambroneindo.github.io/app/sitemap
+Sitemap: https://ambroneindo.github.io/assets/sitemap
+Sitemap: https://ambroneindo.github.io/css/sitemap
+Sitemap: https://ambroneindo.github.io/includes/sitemap
+Sitemap: https://ambroneindo.github.io/item/sitemap
+Sitemap: https://ambroneindo.github.io/src/sitemap
